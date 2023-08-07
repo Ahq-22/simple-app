@@ -2,7 +2,7 @@ using System;
 
 public class program
 {
-    public static int multipying(int num1)
+    public static int sum(int num1)
     {
         if (num1 % 2 == 0)
         {
