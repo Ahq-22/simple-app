@@ -6,7 +6,7 @@ public class program
     {
         if (num1 % 2 == 0)
         {
-            return num1 * 8;
+            return num1 * 9;
         }
         else
         {
